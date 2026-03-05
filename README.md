@@ -1,4 +1,4 @@
-Readme 🎨¡Perfecto! He creado tu README de perfil personalizado. 🎉
+³Readme 🎨¡Perfecto! He creado tu README de perfil personalizado. 🎉
 
 
 ```markdown name=README.md
@@ -37,8 +37,8 @@ Soy un profesional experimentado en gestión de comunidades con pasión por la t
 
 ## 📫 ¿Cómo contactarme?
 - 💼 LinkedIn: [linkedin.com](https://linkedin.com)
-- 🐦 Twitter: [@tunombre](https://twitter.com)
-- 📧 Email: tu_email@example.com
+- 🐦 Twitter: [@josemartinez11](https://twitter.com)
+- 📧 Email: josemartinez11@thinocorp.com
 
 ---
 
